@@ -1,1 +1,1 @@
-print "About Build Packs"
+print "About"

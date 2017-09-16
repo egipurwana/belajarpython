@@ -1,1 +1,1 @@
-print "Hello World build pack"
+print "Hello World"
